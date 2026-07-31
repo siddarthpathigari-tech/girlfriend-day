@@ -3,7 +3,16 @@ function initializeReasons() {
         "Your smile brightens my darkest days.",
         "You believe in me.",
         "You make me laugh.",
-        "You're beautiful inside and out."
+        "You're beautiful inside and out.",
+        "You're the kindest person i know.",
+        "You're always there when i need you.",
+        "I love the way you care for others.",
+        "You're a safe place.",
+        "You've taught me so many things about love and family relationship.",
+        "I love how you appreciate the little things.",
+        "I love you because nobody has ever given me the love that you have given me and.",
+        "You bring out the best in me.",
+        "I love how you treat me with grace and respect.",
     ];
 
     const cardsContainer = document.getElementById("cardsContainer");
